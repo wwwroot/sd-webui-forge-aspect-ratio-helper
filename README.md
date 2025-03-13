@@ -1,4 +1,4 @@
-# Aspect Ratio Helper for SD WebUI & Forge [![pytest](https://github.com/wwwroot/sd-webui-forge-aspect-ratio-helper/actions/workflows/pytest.yml/badge.svg?branch=main)](https://github.com/wwwroot/sd-webui-forge-aspect-ratio-helper/actions/workflows/pytest.yml)
+# Aspect Ratio Helper for SD WebUI & Forge
 
 **Maintained fork** of the original Aspect Ratio Helper extension, now compatible with both [AUTOMATIC1111 WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) and [SD WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge).
 
