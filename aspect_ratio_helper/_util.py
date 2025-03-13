@@ -32,7 +32,10 @@ def display_minus_and_plus(num) -> str:
 
 
 def scale_by_percentage(width, height, pct) -> tuple[int, int]:
-    aspect_ratio = float(width) / float(height)
+    width = float(width)
+    height = float(height)
+    
+    aspect_ratio = width / height
     step = (pct - 1.0)
     new_width = int(round(width * (1.0 + step)))
     new_height = int(round(new_width / aspect_ratio))
